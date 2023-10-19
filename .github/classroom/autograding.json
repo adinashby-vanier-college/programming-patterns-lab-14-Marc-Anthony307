@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "decoratorTest1",
+      "setup": "gradle clean",
+      "run": "gradle test --tests LabFourteenTests.decoratorTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
